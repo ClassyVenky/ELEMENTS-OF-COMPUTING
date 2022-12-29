@@ -9,3 +9,4 @@ a=and_gate_(in,z)
 b=and_gate_(in,q)
 c=and_gate_(in,w)
 d=and_gate_(in,e)
+end
