@@ -1,3 +1,3 @@
 # EOC ASSIGNMENT 4
-# Venkata Satya
+#  Alajangi Venkata Satya
 # CB.EN.U4AIE22005
