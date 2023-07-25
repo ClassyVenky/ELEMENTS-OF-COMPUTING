@@ -1,3 +1,4 @@
-# EOC ASSIGNMENT 4
-#  Alajangi Venkata Satya
-# CB.EN.U4AIE22005
+# ELEMENTS OF COMPUTING 
+# LOGIC GATES IN MATLAB
+# Alajangi Venkata Satya
+
